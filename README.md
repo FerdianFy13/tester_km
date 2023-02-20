@@ -1,16 +1,12 @@
-# suitmedia
+# Blog System
 
-A new Flutter project.
+## Personal Data
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Name		    : Ferdian Firmansyah
+- Telephone	  : +62 813-3791-5702
+- E-mail		  : ferdianfy13@gmail.com
+- NIM		      : 362055401191
+- University	: Banyuwangi State Polytechnic
+- Hometown	  : Banyuwangi
+- Address		  : JL Joyo Utomo No 5 Gang G
+- Hope		    : Untuk mendapatkan pengalaman baru yang tidak didapatkan selama perkuliahan berlangsung, menambah relasi, mendapatkan sebuah insight baru, dan meningkatkan kemampuan hard skill or soft skill ketika mengikuti program MSIB berlangsung.
